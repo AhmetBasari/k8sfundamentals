@@ -1,5 +1,4 @@
 # Secret ve Configmap
-**secret ve configmap** konusuyla ilgili dosyalara buradan erişebilirsiniz.
 ***
 Imperative olarak Secret objelerinin oluşturulması
 
